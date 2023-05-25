@@ -132,20 +132,6 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-
-
-# [Mia (Medical Information Assisstant)](https://mia-fe.vercel.app/)
-
-## Abstract:
-[//]: <>
-
-Mia simplifies your healthcare journey by consolidating all your vital medical information in one place. Keep track of conditions, medications, doctors, and health events effortlessly. Access a centralized doctor directory. Maintain a personal health log to record important events and notes. Take control of your health with Mia.
-
-
-
 
 
 ## Live demo:
@@ -159,17 +145,3 @@ Application is deployed live at: [Vercel](https://mia-fe.vercel.app/)
 
 This project was the final capstone project during Turing, combining a front end team with a backend. The backend repo can be found [here](https://github.com/Medical-Information-Assistant-MIA/MIA-BE)
 
-## Learning Goals:
-[//]: <>
-
-- Familiarize ourselves with TypeScript
-- Employ GraphQL
-- Work directly with a backend team
-- 
-
-## Future Feature Ideas:
-[//]: <>
-
-- Edit function
-- Adding additional information to existing conditions
-- Live list of medications to choose from
