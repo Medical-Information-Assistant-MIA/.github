@@ -103,15 +103,15 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
     </td> 
     <td>
       <a href="https://github.com/sophielabelle">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/victoria-enyart-595052155/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/sophie-labelle/">LinkedIn</a>
     </td> 
     <td>
       <a href="https://github.com/espressoGoddess">GitHub</a><br>
-      <a href="">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/amber-shipley/">LinkedIn</a>
     </td> 
     <td>
       <a href="https://github.com/Zertroz">GitHub</a><br>
-      <a href="https://www.linkedin.com/in/victoria-enyart-595052155/">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/kassdaniello/">LinkedIn</a>
     </td> 
    
     
