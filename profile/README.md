@@ -13,7 +13,7 @@
 ## About The Project
 <br>
 
-<!-- ADD PROJECT DESCRIPTION -->
+Mia simplifies your healthcare journey by consolidating all your vital medical information in one place. Keep track of conditions, medications, doctors, and health events effortlessly. Access a centralized doctor directory. Maintain a personal health log to record important events and notes. Take control of your health with Mia.
 
 
 ## __Available Endpoints__
@@ -144,19 +144,7 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 
 Mia simplifies your healthcare journey by consolidating all your vital medical information in one place. Keep track of conditions, medications, doctors, and health events effortlessly. Access a centralized doctor directory. Maintain a personal health log to record important events and notes. Take control of your health with Mia.
 
-## Built With: 
-[//]: <>
 
-TypeScript, React, Graphql. Tested with Cypress.
-
-## Contributors:
-[//]: <>
-
-[Sophie Labelle](https://github.com/sophielabelle) \
-[Kass Daniello](https://github.com/Zertroz) \
-[Amber Shipley](https://github.com/espressoGoddess) 
-
-[//]: <>
 
 
 
