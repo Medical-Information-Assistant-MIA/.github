@@ -60,7 +60,7 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 
 <br>
 
-## __Back End Team__
+## __Our Team__
 <table>
 <!-- Update picture links -->
   <!-- <tr>
