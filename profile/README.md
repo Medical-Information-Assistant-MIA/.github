@@ -84,7 +84,7 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
   <tr>
     <td><img src="/profile/brad.jpeg"></td>
     <td><img src="/profile/Chris.jpeg"></td>
-    <td><img src="/profile/kara.jpeg"></td>
+    <td><img src="/profile/Kara.jpeg"></td>
     <td><img src="/profile/Matt.jpeg"></td>
     <td><img src="/profile/Tori.jpeg"></td>
     <td><img src="/profile/Sophie.jpeg"></td>
