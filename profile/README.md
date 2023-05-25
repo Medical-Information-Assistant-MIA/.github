@@ -1,9 +1,12 @@
 <a name="readme-top"></a>
 
 <div align="center">
-	
+<div align="center">
+<img src="/profile/Mia-logo.png" alt="Mia Logo" width="200">
+</div>	
 
-# Medical Information Assistant(MIA)
+# Medical Information Assistant(Mia)
+	
 
 </div>
 
