@@ -89,7 +89,7 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
     <td><img src="/profile/Tori.jpeg"></td>
     <td><img src="/profile/Sophie.jpeg"></td>
     <td><img src="/profile/Amber.jpeg"></td>
-    <td><img src="/profile/Kass.jpeg"></td>
+    <td><img src="/profile/Kass.png"></td>
   </tr> 
   <tr>
     <td>Brad Dunlap</td>
