@@ -20,12 +20,17 @@ Mia simplifies your healthcare journey by consolidating all your vital medical i
 <br>
 ## Live demo:
 Application is deployed live at: [Vercel](https://mia-fe.vercel.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <br>
 
 
 ## Our Repositories
 <a href="https://github.com/Medical-Information-Assistant-MIA/MIA-FE">Front End</a><br>
 <a href="https://github.com/Medical-Information-Assistant-MIA/MIA-BE">Back End</a><br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## __Available Endpoints__
 
@@ -39,6 +44,8 @@ https://documenter.getpostman.com/view/27373334/2s93kxc6FD
 MIA was crafted to satisfy the requirements for The Turing Mod 4 **Capstone Project**. 
 
 See the official project requirements [here](https://mod4.turing.edu/projects/capstone/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
 
@@ -128,6 +135,8 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
     
   </tr>
 </table>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- PROJECT MANAGER -->
