@@ -28,7 +28,8 @@ Application is deployed live at: [Vercel](https://mia-fe.vercel.app/)
 
 ## Our Repositories
 <a href="https://github.com/Medical-Information-Assistant-MIA/MIA-FE">Front End</a><br>
-<a href="https://github.com/Medical-Information-Assistant-MIA/MIA-BE">Back End</a><br>
+<a href="https://github.com/Medical-Information-Assistant-MIA/MIA-BE">Back End</a> ![Workflow Status](https://github.com/Medical-Information-Assistant-MIA/MIA-BE/actions/workflows/rubyonrails.yml/badge.svg)
+<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
