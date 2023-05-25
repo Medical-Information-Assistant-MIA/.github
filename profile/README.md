@@ -80,14 +80,14 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 
 ## __Our Team__
 <table>
-<!-- Update picture links -->
-  <!-- <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/116330317?s=120&v=4"></td>
+
+  <tr>
+    <td><img src="/profile/Brad.png" alt="Brad">
     <td><img src="https://avatars.githubusercontent.com/u/88596340?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/104170346?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/71752551?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/117066950?s=120&v=4"></td>
-  </tr> -->
+  </tr> 
   <tr>
     <td>Brad Dunlap</td>
     <td>Chris Crane</td>
