@@ -82,11 +82,14 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 <table>
 
   <tr>
-    <td><img src="/profile/Brad.png" alt="Brad">
-    <td><img src="https://avatars.githubusercontent.com/u/88596340?s=120&v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/104170346?s=120&v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/71752551?s=120&v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/117066950?s=120&v=4"></td>
+    <td><img src="/profile/brad.jpeg"></td>
+    <td><img src="/profile/Chris.jpeg"></td>
+    <td><img src="/profile/kara.jpeg"></td>
+    <td><img src="/profile/Matt.jpeg"></td>
+    <td><img src="/profile/Tori.jpeg"></td>
+    <td><img src="/profile/Sophie.jpeg"></td>
+    <td><img src="/profile/Amber.jpeg"></td>
+    <td><img src="/profile/Kass.jpeg"></td>
   </tr> 
   <tr>
     <td>Brad Dunlap</td>
