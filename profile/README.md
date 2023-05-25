@@ -65,104 +65,6 @@
 
 <!-- ADD PROJECT DESCRIPTION -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Built With:
-### Backend:
-
-[![Ruby]][Ruby-url] **3.1.1**
-[![Rails]][Rails-url] **7.0.4**
-[![Postgresql]][Postgresql-url] **1.1**
-[![GraphQL]][GraphQL-url]
-[![GraphiQL]][GraphiQL-url]
-
-
-### Testing:
-
-
-[![Faker]][Faker-url]
-[![Factory Bot]][Factory Bot-url]
-[![RSpec]][RSpec-url]
-[![Shoulda-Matchers]][Shoulda-Matchers-url]
-[![SimpleCov]][SimpleCov-url]
-
-
-### Development Tools:
-
-[![Heroku]][Heroku-url]
-[![Faraday]][Faraday-url]
-[![RuboCop]][RuboCop-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-<!-- This is a Ruby on Rails application which establishes API endpoints to be called in the <a href="UPDATE LINK"> `MIA-FE` </a> repository. To run the application locally, both front-end and back-end repositories will need to be cloned and set up fully with required gems and environment variables. -->
-
-<br>
-
-### Installation
-
-1. Clone the repo:
-   ```bash
-   git clone git@github.com:Medical-Information-Assistant-MIA/MIA-BE.git
-   ```
-
-2. Install gems:
-   ```bash
-   bundle install
-   ```
-
-3. To establish the database, run:
-   ```bash
-   rails db:create
-   ```
-
-4. Since this is the back-end repository, a database migration is also necessary, run:
-   ```bash
-   rails db:migrate
-   ```
-
-<!-- ADD THIS NEXT STEP ONCE AN EXTERNAL API IS INCORPORATED -->
-<!-- 6. Add your API key to the application.yml file
-    ```bash
-    API_KEY = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    ```
-<br> -->
-
-  Inspect the `/db/schema.rb` and compare to the 'Schema' section below to ensure this migration has been done successfully.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br>
-
-
-### Testing with RSpec
-
-Once `MIA-BE` is correctly installed, run tests locally to ensure the repository works as intended.
-
-<br>
-
-  To test the entire RSpec suite, run:
-   ```bash
-   bundle exec rspec
-   ```
-
-<br>
-
-All tests should be passing if the installation was successful. 
-
-If any tests are not passing, please report which tests are not passing <a href="PLEASE UPDATE LINK">Here</a>. We will issue an update/fix as soon as possible.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br>
-
 
 ## __Available Endpoints__
 
@@ -205,12 +107,6 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<br>
-
-## __Database Schema__
-
-<img src=images/schema.png alt="Database Schema">
 
 <br>
 
