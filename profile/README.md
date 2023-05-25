@@ -6,56 +6,6 @@
 # Medical Information Assistant(MIA)
 
 </div>
-<div align="center">
-  <!-- <a href="https://github.com/pantry-wizard/pantry_wizard_be">
-    <img src="LOGO_URL_HERE" alt="Logo" width="582" height="404">
-  </a> -->
-<h3 align="center"></h3>
-
-  <div align="center">
-    <!-- ADD APP DESCRIPTION ****************** -->
-    <br>
-    <p> Medical Information Assistant (MIA) is a service oriented application that allows users to document their personal medical information in a customizable and intuitive way. 
-    </p>
-    <br />
-    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
-    <!-- <br /> -->
-    <!-- <br /> -->
-    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
-    <!-- · -->
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-			
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#testing-with-rspec">Testing With RSpec</a></li>
-      </ul>
-    </li>
-    <li><a href="#available-endpoints">Available Endpoints</a></li>
-    <li><a href="#goals">Goals</a></li>
-    <!-- <li><a href="#usage">Usage</a></li> -->
-    <!-- <li><a href="#roadmap">Roadmap</a></li> -->
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
-    <!-- <li><a href="#license">License</a></li> -->
-    <!-- <li><a href="#contact">Contact</a></li> -->
-    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
-  </ol>
-</details>
-
 
 <br>
 
