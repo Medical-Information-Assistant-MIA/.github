@@ -14,7 +14,15 @@
 <br>
 
 Mia simplifies your healthcare journey by consolidating all your vital medical information in one place. Keep track of conditions, medications, doctors, and health events effortlessly. Access a centralized doctor directory. Maintain a personal health log to record important events and notes. Take control of your health with Mia.
+<br>
+## Live demo:
+Application is deployed live at: [Vercel](https://mia-fe.vercel.app/)
+<br>
 
+
+## Our Repositories
+<a href="https://github.com/Medical-Information-Assistant-MIA/MIA-FE">Front End</a><br>
+<a href="https://github.com/Medical-Information-Assistant-MIA/MIA-BE">Back End</a><br>
 
 ## __Available Endpoints__
 
@@ -131,17 +139,3 @@ See the official project requirements [here](https://mod4.turing.edu/projects/ca
 * Daniel Starling
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## Live demo:
-[//]: <>
-
-Application is deployed live at: [Vercel](https://mia-fe.vercel.app/)
-
-
-## Context:
-[//]: <>
-
-This project was the final capstone project during Turing, combining a front end team with a backend. The backend repo can be found [here](https://github.com/Medical-Information-Assistant-MIA/MIA-BE)
-
